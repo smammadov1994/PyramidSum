@@ -1,4 +1,6 @@
 # Pyramid Sum
+![picture2](https://user-images.githubusercontent.com/52431957/71699023-b3e42980-2d8b-11ea-9dbc-bed7a547c048.JPG)
+
 
 \*requirements: `python 3.^`
 
